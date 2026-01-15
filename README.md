@@ -1,7 +1,7 @@
-# LegacyGuard 🛡️
+# SentinelCode 🛡️
 ### AI-powered risk analysis for legacy codebases
 
-LegacyGuard is an AI-assisted developer tool that helps engineers **understand where it is safe—or dangerous—to change code** in large, complex, or legacy systems.
+SentinelCode is an AI-assisted developer tool that helps engineers **understand where it is safe—or dangerous—to change code** in large, complex, or legacy systems.
 
 Instead of only explaining code, LegacyGuard focuses on **change risk and impact**.
 
