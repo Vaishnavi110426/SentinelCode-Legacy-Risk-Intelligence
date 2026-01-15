@@ -1,0 +1,5 @@
+{
+  "name": "SentinelCode - Legacy Risk Analyzer",
+  "description": "A high-fidelity AI-assisted developer tool designed to map risk, blast radius, and fragility in complex legacy codebases, providing actionable safety scores and refactoring paths.",
+  "requestFramePermissions": []
+}
